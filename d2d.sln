@@ -9,8 +9,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GdiInteropSample", "GdiInte
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeometryRealizationSample", "GeometryRealizationSample\GeometryRealizationSample.vcxproj", "{62E11CBB-65AA-4DAA-9AA0-EAAB2ADEEBDE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Interactive3DTextSample", "Interactive3dTextSample\Interactive3dTextSample.vcxproj", "{EBA4DE66-8B56-45A5-BE1D-5A8AF9251822}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListViewSample", "ListViewSample\ListViewSample.vcxproj", "{EEC93373-CBED-4DD0-96E6-6A4AFD4D9C16}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MSAARenderingSample", "MSAARenderingSample\MSAARenderingSample.vcxproj", "{9812C387-8F94-4BD7-81A9-E58DDB2218AC}"
@@ -55,14 +53,6 @@ Global
 		{62E11CBB-65AA-4DAA-9AA0-EAAB2ADEEBDE}.Release|x64.Build.0 = Release|x64
 		{62E11CBB-65AA-4DAA-9AA0-EAAB2ADEEBDE}.Release|x86.ActiveCfg = Release|Win32
 		{62E11CBB-65AA-4DAA-9AA0-EAAB2ADEEBDE}.Release|x86.Build.0 = Release|Win32
-		{EBA4DE66-8B56-45A5-BE1D-5A8AF9251822}.Debug|x64.ActiveCfg = Debug|x64
-		{EBA4DE66-8B56-45A5-BE1D-5A8AF9251822}.Debug|x64.Build.0 = Debug|x64
-		{EBA4DE66-8B56-45A5-BE1D-5A8AF9251822}.Debug|x86.ActiveCfg = Debug|Win32
-		{EBA4DE66-8B56-45A5-BE1D-5A8AF9251822}.Debug|x86.Build.0 = Debug|Win32
-		{EBA4DE66-8B56-45A5-BE1D-5A8AF9251822}.Release|x64.ActiveCfg = Release|x64
-		{EBA4DE66-8B56-45A5-BE1D-5A8AF9251822}.Release|x64.Build.0 = Release|x64
-		{EBA4DE66-8B56-45A5-BE1D-5A8AF9251822}.Release|x86.ActiveCfg = Release|Win32
-		{EBA4DE66-8B56-45A5-BE1D-5A8AF9251822}.Release|x86.Build.0 = Release|Win32
 		{EEC93373-CBED-4DD0-96E6-6A4AFD4D9C16}.Debug|x64.ActiveCfg = Debug|x64
 		{EEC93373-CBED-4DD0-96E6-6A4AFD4D9C16}.Debug|x64.Build.0 = Debug|x64
 		{EEC93373-CBED-4DD0-96E6-6A4AFD4D9C16}.Debug|x86.ActiveCfg = Debug|Win32
